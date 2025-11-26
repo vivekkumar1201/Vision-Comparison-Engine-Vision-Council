@@ -1,3 +1,11 @@
+<img width="3012" height="1552" alt="image" src="https://github.com/user-attachments/assets/107d9a50-ba73-4437-8492-6ce630de757c" />
+
+<img width="3012" height="1552" alt="image" src="https://github.com/user-attachments/assets/ad438bc3-0539-4d38-ba76-a8eb23820537" />
+
+<img width="3012" height="1552" alt="image" src="https://github.com/user-attachments/assets/8cd4a7cb-94a9-4b91-8cfd-2c3a5705e16b" />
+
+
+
 # Gemini Vision Council 
 
 An advanced multi-agent image analysis tool powered by Google's Gemini 2.5 Flash and Gemini 3.0 Pro models. This application allows users to upload images for A/B testing and comparative analysis through different "personas" or lenses.
