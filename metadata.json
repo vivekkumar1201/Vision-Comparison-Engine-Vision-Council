@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Vision Council",
+  "description": "A specialized multi-agent image analysis tool. Upload images to get simultaneous perspectives on Code, Forensics, UX Design, Data Extraction, and Public Opinion.",
+  "requestFramePermissions": []
+}
